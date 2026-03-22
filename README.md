@@ -1,0 +1,2 @@
+# Cooking
+This is my solution to the Odin Project's challenge
